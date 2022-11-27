@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'food.wsgi.application'
 DATABASES = {
      'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'd6s9v3km68to6m',
-        'USER': 'eqhtwrdbcfpuea',
-        'PASSWORD':'5125c6739e8432c9d97b3b719251d260a81053eef363642d10b21e16ff44d2b0',
-        'HOST':'ec2-3-219-135-162.compute-1.amazonaws.com',
+        'NAME': 'dech6hh1h3c13i',
+        'USER': 'rxwnqddvasuezz',
+        'PASSWORD':'c2a4819963f482a9f5a0b5558c9eb8109139f7a949e9027c05c03dc3e1e6feb6',
+        'HOST':'ec2-34-201-95-176.compute-1.amazonaws.com',
         'PORT':'5432',
     }
 }
